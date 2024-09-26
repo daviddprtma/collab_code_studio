@@ -15,9 +15,9 @@ function MyApp({ Component, pageProps }: AppProps) {
         toastOptions={{
           success: {
             duration: 3000,
-            theme: {
-              primary: "#4aee88",
-              // secondary: "black",
+            style: {
+              background: "green",
+              color: "white",
             },
           },
         }}

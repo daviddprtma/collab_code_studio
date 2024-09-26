@@ -10,7 +10,6 @@ interface JoinRoomDialogueProps {}
 const JoinRoomDialogue: React.FC<JoinRoomDialogueProps> = () => {
   const [showModal, setShowModal] = React.useState(false);
   const [roomId, setRoomId] = useState("");
-  // const [name, setName] = useState("");
   const router = useRouter()
   const { name, setName } = useGlobalContext()
 
@@ -37,14 +36,6 @@ const JoinRoomDialogue: React.FC<JoinRoomDialogueProps> = () => {
         text="Go to Editor"
         onClickFunc={() => setShowModal(true)}
       />
-      {/* <button
-          className="bg-pink-500 h text-white active:bg-pink-600 font-bold uppercase text-sm px-6 py-2 rounded shadow hover:shadow-lg outline-none focus:outline-none ease-linear transition-all duration-150"
-          type="button"
-          onClick={() => setShowModal(true)}
-        >
-           
-          Open regular modal 
-        </button>  */}
       {showModal ? (
         <>
           <div className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none">
