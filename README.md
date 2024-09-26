@@ -1,15 +1,7 @@
-
 <h1 align="center" style="font-weight: bold;">Collab Code Studio⌨️</h1>
-
-
 <p align="center">A simple collaboration app to collaborate code with others. Free & Easy To Use🎉</p>
-
-
-
 <h2 id="layout">🎨 Layout</h2>
-
 <p align="center">
-
 <img src="https://github.com/daviddprtma/collab_code_studio/blob/009b373f1c4e68e7ba8b9caba0c365e930955d3b/public/collabcodestudio.png" alt="Random Image" width="400px">
 </p>
 
