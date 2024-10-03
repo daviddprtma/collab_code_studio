@@ -5,7 +5,7 @@
 <img src="https://github.com/daviddprtma/collab_code_studio/blob/009b373f1c4e68e7ba8b9caba0c365e930955d3b/public/collabcodestudio.png" alt="Random Image" width="400px">
 </p>
 
-# Why Collab Code Studio✅?
+# Why Collab Code Studio✅
 Collab Code Studio is a studio community for testing and showcasing user by created HTML, CSS and JavaScript code snippets. It functions as a code editor and open-source learning environment, where stackies can create code snippets and collaborate their codes with others by just create a room, and copy your ROOM ID to other stackies who want to join and collaborate code together.
 
 <h2 id="technologies">💻 Technologies</h2>
