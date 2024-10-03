@@ -53,4 +53,7 @@ yarn
 yarn dev
 ```
 
-## For the video presentation, see it in here 
+## For the video presentation, see it in below video
+<br>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZKMy4XgnLxo/0.jpg)](https://www.youtube.com/watch?v=ZKMy4XgnLxo)
