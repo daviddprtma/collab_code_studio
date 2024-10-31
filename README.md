@@ -1,5 +1,8 @@
-<h1 align="center" style="font-weight: bold;">Collab Code Studio⌨️</h1>
+<h1 align="center" style="font-weight: bold;">🏆Top 5 Winner October Hackathon - Collab Code Studio⌨️</h1>
 <p align="center">A simple collaboration app to collaborate code with others. Free & Easy To Use🎉</p>
+<p align="center">This project is nominated as the 5th winner of stackup october hackathon🎉. For more information, you can see the announcement of the list of winner in here: https://earn.stackup.dev/learn/pathways/2024-monthly-hackathon-coding-challenges/skills/october-2024-monthly-coding-challenge/modules/october-2024-monthly-coding-challenges-showcase/tutorials/monthly-hackathon-2024-october-2024-coding-challenge-showcase 
+P.S: You need to login first, to see the list of the winner announcement :) 
+</p>
 <h2 id="layout">🎨 Layout</h2>
 <p align="center">
 <img src="https://github.com/daviddprtma/collab_code_studio/blob/009b373f1c4e68e7ba8b9caba0c365e930955d3b/public/collabcodestudio.png" alt="Random Image" width="400px">
@@ -57,3 +60,6 @@ yarn dev
 <br>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZKMy4XgnLxo/0.jpg)](https://www.youtube.com/watch?v=ZKMy4XgnLxo)
+
+# Screenshot for the winner
+<img src="https://github.com/daviddprtma/collab_code_studio/blob/99186da23dc4474f2a7b5922869c7b58fb73cbf9/ss%20october%20winner.png" align="center" />
