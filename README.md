@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">🏆Top 5 Winner October Hackathon - Collab Code Studio⌨️</h1>
+<h1 align="center" style="font-weight: bold;">🏆Top 5 Winner Stackup October Hackathon Challenge - Collab Code Studio⌨️</h1>
 <p align="center">A simple collaboration app to collaborate code with others. Free & Easy To Use🎉</p>
 <p align="center">This project is nominated as the 5th winner of stackup october hackathon🎉. For more information, you can see the announcement of the list of winner in here: https://earn.stackup.dev/learn/pathways/2024-monthly-hackathon-coding-challenges/skills/october-2024-monthly-coding-challenge/modules/october-2024-monthly-coding-challenges-showcase/tutorials/monthly-hackathon-2024-october-2024-coding-challenge-showcase 
 </p>
